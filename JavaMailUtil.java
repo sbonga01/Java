@@ -24,8 +24,8 @@ public class JavaMailUtil{
 		properties.put("mail.smtp.host", "cas.za.sbicdirectory.com");
 		properties.put("mail.smtp.auth", "true");
 		
-		String myAcc_email = "kenneth.shange@standardbank.co.za";
-		String password = "4281@sbo";
+		String myAcc_email = "xxxxxxxx@xxxxxx.co.za";
+		String password = "xxxxxxxxxx";
 		
 		//properties.put("mail.smtp.auth", "True");
 		//properties.put("mail.smtp.starttls.enable", "True");
